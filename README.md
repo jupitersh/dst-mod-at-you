@@ -1,5 +1,7 @@
 # At You
 
+[](https://steamuserimages-a.akamaihd.net/ugc/787501256934199110/5772005443999954968B77DD80C940990D1D8FE3/?imw=268&imh=268&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true)
+
 ## Overview
 
 This is a mod for the game of Don't Starve Together which is available in the Steam Workshop. 
